@@ -3,4 +3,4 @@ from app.models import *
 # Register your models here.
 
 admin.site.register(Country)
-admin.site.register(State)
+admin.site.register(Capital)
